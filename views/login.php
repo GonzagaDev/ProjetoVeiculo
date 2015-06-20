@@ -2,7 +2,7 @@
     <head>
         <meta charset="utf-8"/>
         <title>Login - Trabalho</title>
-        <link rel="stylesheet" type="text/css" href="../CCS/CSS_login.css"/>
+        <link rel="stylesheet" type="text/css" href="../CSS/CSS_login.css"/>
     </head>
     <body>
         <div id="cab">

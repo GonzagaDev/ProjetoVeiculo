@@ -10,7 +10,7 @@
         <img alt="" id="titulo" src="imagens/sub.png" />
         
         <a href="#"><input id="entrar-site" type="button" name="enter" value="Entrar no site"/></a>
-        <a href="paginas/login.php"><input id="area-restrita" type="button" name="restricted" value="Área Restrita"/></a>
+        <a href="Views/login.php"><input id="area-restrita" type="button" name="restricted" value="Área Restrita"/></a>
         
     </body>
 </html>
